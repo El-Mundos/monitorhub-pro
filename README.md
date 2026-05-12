@@ -115,7 +115,7 @@ monitorhub-pro/
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/sergio-tabernero/monitorhub-pro.git
+git clone https://github.com/El-Mundos/monitorhub-pro.git
 cd monitorhub-pro
 
 # Copiar variables de entorno
